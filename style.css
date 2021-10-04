@@ -1,0 +1,46 @@
+h1{
+    margin-bottom: 30px;
+    color: Black;
+    text-decoration: underline;
+	font-family: 'Chilanka', cursive;
+	
+}
+input{
+    margin-right: 40px;
+    margin-bottom: 40px;
+    width: 200px;
+    background-color: whitesmoke;
+    border: solid;
+    font-weight: bold;
+	border-radius: 7px;
+	height :75px;
+	width: 250px;
+	font-size: 20px;
+}
+button{
+    margin-bottom: 20px;
+    background-color: teal;
+    font-weight: bold;
+	border-bottom-left-radius: 40px;
+	border-bottom-right-radius: 0px;
+	border-top-right-radius: 20x;
+	border-top-left-radius: 20px;
+	height :100px;
+	width: 200px;
+	color: floralwhite;
+	font-size: 20px;
+}
+hr{
+    margin-bottom: 15px;
+	height: 20px;
+	background-color:yellow;
+	border-radius: 20px;
+}
+body{
+    background:linear-gradient(lightblue,lightgreen);
+}
+h2{ font-family: 'Noto Sans JP', sans-serif;
+	margin-bottom: 30px;
+    color: Black;
+    text-decoration: underline;
+}
